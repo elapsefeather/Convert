@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Convert</string>
+
+    <!-- title -->
+    <string name="title_conversion">TWD</string>
+    <string name="title_Currency">幣別</string>
+    <string name="title_Money">金額</string>
+
+    <!-- dialog -->
+    <string name="dialog_cencel">取消</string>
+    <string name="dialog_check">確定</string>
+
+</resources>
